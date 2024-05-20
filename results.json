@@ -12,13 +12,13 @@
     "num_tags": 18
   },
   "test_hmm": {
-    "precision": 0.76,
+    "precision": 0.75,
     "recall": 0.69,
     "f1": 0.7
   },
   "test_embeddings_model": {
-    "precision": 0.69,
-    "recall": 0.67,
-    "f1": 0.67
+    "precision": 0.81,
+    "recall": 0.79,
+    "f1": 0.79
   }
 }
